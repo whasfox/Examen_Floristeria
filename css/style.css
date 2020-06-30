@@ -1,0 +1,32 @@
+:root{
+	--amarillo:#F9C131;
+}
+.img-perfil{
+	border-radius: 100%;
+}
+.img-fluid{
+	max-width: 100%;
+}
+.panel-left{
+	background-color: var(--amarillo);
+	color: #000;
+}
+.list-menu{
+	background-color: var(--amarillo)!important;
+	font-size: 15px;
+}
+.card-food .card-header img{
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+.card-food .card-content{
+	background-color: var(--amarillo);
+	color: #000;
+	padding: 10px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	font-size: 16px;
+}
+.categorias .card{
+	background-color: var(--amarillo);
+}
